@@ -1,4 +1,4 @@
-# TASK-1-Superstore-Sales-data-Analysis-Dashboard
+# TASK 1: Superstore Sales Data Analysis Dashboard
 
 ## Short Description / Purpose:
 
