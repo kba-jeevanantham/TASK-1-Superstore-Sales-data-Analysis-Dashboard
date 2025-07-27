@@ -50,6 +50,5 @@ Quickly spot customer segments contributing most to sales.
 
 ## Screenshots 
 Show what the dashboard look like.![Alt text](https://github.com/kba-jeevanantham/TASK-1-Superstore-Sales-data-Analysis-Dashboard/blob/main/Superstore%20Sales%20Data%20Analysis%20Dashboard%20Image.png)
-Example:(https://github.com/kba-jeevanantham/TASK-1-Superstore-Sales-data-Analysis-Dashboard/blob/main/Superstore%20Sales%20Data%20Analysis%20Dashboard%20Image.png)
 
 
