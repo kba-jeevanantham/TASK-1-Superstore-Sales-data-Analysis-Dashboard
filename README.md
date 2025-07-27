@@ -40,6 +40,6 @@ Track monthly trends to plan inventory & marketing.
 Quickly spot customer segments contributing most to sales.
 
 Screenshots / Demo
-Below are some screenshots of the dashboard (folder: /Screenshots/):
+Below are some screenshots of the dashboard :(https://github.com/kba-jeevanantham/TASK-1-Superstore-Sales-data-Analysis-Dashboard/blob/main/Superstore%20Sales%20Data%20Analysis%20Dashboard%20Image.png)
 
 
